@@ -24,13 +24,14 @@ class Datos :
             print(guitarra)
     #Diccionarios
     def comida_diccionario(self):
-        thisdict =	{
+        papas =	{
         "Takis": "papitas",
         "Barcel": "Galletas",
         "vence": 2026
         }
-        for x in thisdict:
-            print(x)
+        print(papas)
+        for taki in papas:
+            print(taki)
 
 #Creacion de objeto info
 info= Datos(1.60, 60.1)
