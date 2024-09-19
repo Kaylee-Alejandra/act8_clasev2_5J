@@ -15,11 +15,13 @@ class Datos :
     #tuplas
     def salones_tupla(self):
         compañeros = ("Jireh", "Daniel", "Mota")
+        print(compañeros)
         for uncom in compañeros:
             print(uncom) 
     #Conjuntos
     def music_conjunto(self):
         guitarras = {"Acustica", "Electrica", "Electroacustica"}
+        print(guitarras)
         for guitarra in guitarras:
             print(guitarra)
     #Diccionarios
