@@ -1,6 +1,7 @@
 # act8_clasev2_5J
 ## Codigo 
-- ![image](https://github.com/user-attachments/assets/d191cbef-8345-4790-8fc5-07e261419a72)
+- ![image](https://github.com/user-attachments/assets/f4ce0fdd-98c5-429f-adc2-9ee951c60b8c)
+
 -![image](https://github.com/user-attachments/assets/d79cec90-9e92-4085-97b4-33c1e5582491)
 
 
